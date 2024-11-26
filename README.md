@@ -78,9 +78,9 @@ _Include screenshots of the application here._
 ---
 
 ### Author  
-**[Your Name]**  
-[GitHub Profile](https://github.com/your-username)  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
+**[Vishal Vinod Kumar]**  
+[GitHub Profile](https://github.com/vishalvk2511)  
+[LinkedIn](https://www.linkedin.com/in/vishalvk2511)  
 
 ---
 
